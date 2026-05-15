@@ -5,3 +5,15 @@ The commit points to a tree object, which represents the project’s directory a
 # Reflog Rescue Drill
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+
+# Commit History Refactor
+
+In this task, I cleaned and reorganized my Git commit history using interactive rebase.
+
+## What I Did
+- Squashed unnecessary commits into a single clean commit
+- Rewrote commit messages to follow Conventional Commits style
+- Reordered commits to improve the history flow and readability
+- Verified the final history using `git log`
+

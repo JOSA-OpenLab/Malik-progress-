@@ -1,0 +1,2 @@
+#  Self-review
+I reviewed one of my previous PRs that was not merged. The change I made to the ls page was technically correct, but it went against the purpose of the TLDR project, which is to keep commands easy to understand. I removed explanations for abbreviations, making the page less beginner-friendly. If I reviewed this PR today, I would suggest keeping those explanations. This taught me that a good change should support the project's goals, not just improve the code.

@@ -1,0 +1,2 @@
+# Build a real workflow  
+For this task, I added a GitHub Actions CI workflow to my repository using .github/workflows/ci.yml. It includes linting, testing, a matrix for multiple versions, and caching to improve performance. I also added a status badge to the README to show the build status. This helped me learn how to automate testing and code quality checks using CI.[REPO](https://github.com/Malik740/GYMFlow)
